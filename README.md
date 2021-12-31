@@ -17,6 +17,6 @@ W26_2_ripe.PNG  ,ripe,10,0.97
 
 In `Images` folder, there are totally 502 images of strawberries, and here is an example.
 
-![W26_1_ripe.PNG](./assets/W26_1_ripe.PNG)\
+![W26_1_ripe.PNG](./assets/W26_1_ripe.PNG)
 
 In the end, thank ZZN for his work in the classification task.
