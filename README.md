@@ -1,7 +1,7 @@
 # Pattern-Recognition-Project
-Project for 2021 Fall Pattern Recognition, SEU.
+Project for 2021 Fall Pattern Recognition, SEU. Full report and source code will be released after Jan 2, 2022.
 
-In this project, we adopted Convolutional Neural Network (CNN) to a smart farm image analysis system, which can classify a strawberry as ripe, part-ripe, or unripe, or estimate its acidity and Brix(a value used to quantify its taste) based on its image.
+In this project, we adopted Convolutional Neural Network (CNN) to a smart farm image analysis system, which can classify a strawberry as ripe, part-ripe, or unripe, or estimate its acidity and Brix (a value used to quantify its taste) based on its image.
 
 Due to copyright restrictions, we cannot release the dataset.
 
