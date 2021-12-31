@@ -26,7 +26,6 @@ https://blog.csdn.net/ttdxtt/article/details/112347283
 https://blog.csdn.net/weixin_43793510/article/details/120564907 自定义dataset中 字典类型不能直接transfrom
 错误DataLoader RuntimeError: stack expects each tensor to be equal size
 https://www.cnblogs.com/happyamyhope/p/14957691.html 输入数据大小不一致∴调整图片大小
-# author：张致宁
 # date：2021/12/10
 '''
 import torch.optim as optim
